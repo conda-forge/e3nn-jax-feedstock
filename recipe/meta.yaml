@@ -25,6 +25,7 @@ requirements:
     - optax
     - sympy
     - numpy
+    - flax
 
 test:
   imports:
