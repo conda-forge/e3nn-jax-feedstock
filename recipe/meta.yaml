@@ -26,6 +26,7 @@ requirements:
     - sympy
     - numpy
     - flax
+    - tqdm
 
 test:
   imports:
