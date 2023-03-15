@@ -1,11 +1,11 @@
-About e3nn-jax
-==============
+About e3nn-jax-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/e3nn-jax-feedstock/blob/main/LICENSE.txt)
 
 Home: https://e3nn.org
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/e3nn-jax-feedstock/blob/main/LICENSE.txt)
 
 Summary: Equivariant convolutional neural networks for the group E(3) of 3 dimensional rotations, translations, and mirrors.
 
