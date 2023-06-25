@@ -27,6 +27,7 @@ requirements:
     - numpy
     - flax
     - tqdm
+    - attrs
 
 test:
   imports:
