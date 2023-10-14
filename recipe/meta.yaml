@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.7
-    - jax
+    - jax >=0.4.16
     - dm-haiku
     - optax
     - sympy
