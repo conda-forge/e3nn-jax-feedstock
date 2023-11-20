@@ -3,7 +3,7 @@ About e3nn-jax-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/e3nn-jax-feedstock/blob/main/LICENSE.txt)
 
-Home: https://e3nn.org
+Home: https://e3nn-jax.readthedocs.io
 
 Package license: Apache-2.0
 
