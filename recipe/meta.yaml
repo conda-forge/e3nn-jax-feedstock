@@ -1,5 +1,5 @@
 {% set name = "e3nn-jax" %}
-{% set version = "0.20.4" %}
+{% set version = "0.20.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3dab5099d845c44050ad7cdeb71434df15f42f8946c05f44e2ede37f0120e797
+  sha256: 1ee7491936f6dae099e8b3bedb8a12d3bda7199a828f95f5d71b178bda92b2a2
 
 build:
   noarch: python
